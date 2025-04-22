@@ -7,7 +7,6 @@ const App = () => {
     <div>
       <Navbar />
       <Body />
-      {/* ho gya link  */}
     </div>
   )
 }
