@@ -10,11 +10,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 20px;
+  padding: 18px 48px;
 }
 
 .left-side-navbar {
   width: 150px;
+  color: white;
 }
 
 .center-side-navbar-parent-element {
@@ -25,7 +26,7 @@
 
 .center-side-navbar-element a {
   text-decoration: none;
-  color: #393c41;
+  color: white;
   font-size: 14px;
   font-weight: 600;
 }
@@ -35,6 +36,17 @@
   gap: 5px;
 }
 
-.right-side-navbar img {
+.markicon {
   height: 24px;
+  color: white;
+}
+
+.world {
+  height: 24px;
+  color: white;
+}
+
+.profile {
+  height: 24px;
+  color: white;
 }

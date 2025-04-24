@@ -1,0 +1,6 @@
+.background-container{
+    height: 40px;
+    width: 100%;
+    border: 3px solid black;
+    background-color: red;
+}
